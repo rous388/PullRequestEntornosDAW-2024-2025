@@ -5,9 +5,9 @@ Haz un **_fork_** de este repositorio Crea una **rama** llamada ApellidosNombre,
 
 Edita el fichero listado.txt y añádete al final.
 
-Sincroniza tus cambios a tu repositorio
+Sincroniza tus cambios a tu repositorio.
 
-Haz un Pull Request de tu rama ApellidosNombre a mi rama dev
+Haz un Pull Request de tu rama ApellidosNombre a mi rama **dev**.
 
 Una vez hecho, te toca a esperar a que el propietario del repositorio acepte el pull request y los cambios se añadan al fichero :-)
 
