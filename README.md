@@ -9,6 +9,6 @@ Ejercicio de Pull Request 1DAW 2024-2025
 
 * Haz un **Pull Request** de tu rama ApellidosNombre a mi rama **dev**.
 
-Una vez hecho, te toca a esperar a que el propietario del repositorio valide y acepte el pull request y los cambios se añadan al fichero :-)
+Una vez hecho, te toca esperar a que el propietario del repositorio valide y acepte el pull request y los cambios se añadan al fichero :-)
 
 :+1: This PR looks great - it's ready to merge! :shipit:
