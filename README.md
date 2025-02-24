@@ -1,7 +1,7 @@
 # PullRequestEntornosDAW-2024-2025
 Ejercicio de Pull Request 1DAW 2024-2025
 ## Cómo proceder
-* Haz un **_fork_** de este repositorio.
+* Haz un **_fork_** de este repositorio. (Al crearlo, no olvides desmarcar la casilla de la opción **"Copy the main branch only"** para que se copien el resto de ramas).
 
 * Edita el fichero listado.txt y añádete al final.
 
